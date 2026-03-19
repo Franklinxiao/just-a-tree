@@ -1,0 +1,19 @@
+Flash大陆，在饱受【噪声之海的侵蚀】。
+
+初始阶段，playeronly have one free block to protect himself from zoomble, refering to minecraft's dig3fill1.
+player (1*1*2 blocks high)
+    
+firstly at the corrner, three natraul were given, one block to fill
+open a chest to get one free block 
+
+在边缘（有保护墙）处需要2个
+
+player can get 3 kinds of blocks , the red one 对任何人都是实心 ，但它是理想刚体
+but the  blue  one will block player and aloud enermes to pass, it might not  be suitable for being a door or other facilities,
+but it is awsome to let this kinds block to be 阶梯 or 天桥.
+the last green one alouds player to pass and blocks the enermes , it burths with the gift to be door, and it might help you to catch 特定的 enermies
+how the three kinds of block will be perfectly used depands on player's IQ.
+
+
+
+
